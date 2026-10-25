@@ -1,0 +1,19 @@
+{
+    "student_name": "Alex",
+    "health": {
+        "sleep_hours": 3.0,
+        "run_distance_km": 8.2,
+        "hrv_status": "low",
+        "energy_level": "low"
+    },
+    "deadlines": [
+        {
+            "task": "Math HW",
+            "due": "Tonight 11:59 PM"
+        },
+        {
+            "task": "Systems Optimization Reading",
+            "due": "Tomorrow 5:00 PM"
+        }
+    ]
+}
